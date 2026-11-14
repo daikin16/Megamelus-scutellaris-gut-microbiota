@@ -1,0 +1,13 @@
+Sample_id	Site
+WaainekA	Waainek
+WaainekB	Waainek
+WaainekC	Waainek
+WaainekD	Waainek
+BenoniA	Middle Lake
+BenoniB	Middle Lake
+BenoniC	Middle Lake
+BenoniD	Middle Lake
+CivicA	Civic Dam
+CivicB	Civic Dam
+CivicC	Civic Dam
+CivicD	Civic Dam
