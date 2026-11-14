@@ -1,1 +1,1 @@
-# PhD-thesis-supplementary-material
+# Supplementary code and data for "Characterisation of the gut microbiota and predicted functional potential of the water hyacinth planthopper Megamelus scutellaris (Hemiptera: Delphacidae) between field and mass-reared populations"  
