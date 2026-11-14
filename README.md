@@ -26,15 +26,12 @@ Set the working directory to `data/` for scripts 02 and 03 (they read files by n
 
 `01_Diversity.R` reads the QIIME2 files in `data/qiime2/` (set the working directory there).
 The rarefied object `datasubsampled_fixed.rds` is created by the commented lines in section 5.1
-(`rarefy_even_depth`, seed 123). Raw sequence data: ADD ACCESSION NUMBER / REPOSITORY LINK.
+(`rarefy_even_depth`, seed 123). 
 
 `03_Taxa_contribution.R` uses two objects created elsewhere in the session: `taxonomy` (ASV taxonomy table) and
 `contrib_metadata` (data frame with `sample_name` and `Site` columns).
 
 ## Software
 
-R version and package versions: ADD OUTPUT OF `sessionInfo()`.
+Analyses were run in R 4.4.2 (2024-10-31 ucrt) on Windows 11 x64.
 
-## Citation
-
-ADD THESIS CITATION AND ZENODO DOI AFTER RELEASE.
