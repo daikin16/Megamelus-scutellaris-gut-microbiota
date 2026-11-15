@@ -40,8 +40,8 @@ Raw 16S rRNA gene sequence data are available in the NCBI Sequence Read Archive 
 
 ## Software
 
-Analyses were run in R 4.4.2 (2024-10-31 ucrt) on Windows 11 x64. PICRUSt2 v2.6.2 was used for functional prediction. QIIME2 version: ADD VERSION.
+Analyses were run in R 4.4.2 (2024-10-31 ucrt) on Windows 11 x64. PICRUSt2 v2.6.2 was used for functional prediction. QIIME2 version: 2024.10 (amplicon distribution)..
 
 ## Citation
 
-ADD MANUSCRIPT CITATION AFTER PUBLICATION. Code and data archive: https://doi.org/10.5281/zenodo.24228800
+Code and data archive: https://doi.org/10.5281/zenodo.24228800
