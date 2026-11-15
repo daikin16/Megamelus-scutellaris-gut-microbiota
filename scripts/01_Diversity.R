@@ -133,7 +133,7 @@ library(ggpubr)
 
 # 4.1 Rarefaction (subsampling to 40000 reads)
 sample_sums(physeq)
-datasubsampled <- rarefy_even_depth(physeq, rngseed = 123)
+datasubsampled <- rarefy_even_depth(physeq, sample.size = 40000, rngseed = 123)
 
 sample_sums(datasubsampled)
 
@@ -213,7 +213,7 @@ library(dplyr)
 
 # Rarefy once (run only the first time, then save)
 #set.seed(123)
-#datasubsampled <- rarefy_even_depth(physeq, rngseed = 123, verbose = FALSE)
+#datasubsampled <- rarefy_even_depth(physeq, sample.size = 40000, rngseed = 123, verbose = FALSE)
 #saveRDS(datasubsampled, "datasubsampled_fixed.rds")
 
 # This fixed dataset was used for all analyses
