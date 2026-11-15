@@ -1,4 +1,4 @@
-# Supplementary code and data for "Microbial diversity in *Megamelus scutellaris* gut affected by heavy metals from acid mine drainage"
+# Supplementary code and data for "Comparison of the gut microbiota and predicted functional potential of the water hyacinth planthopper Megamelus scutellaris (Hemiptera: Delphacidae) between field and mass-reared populations "
 
 [![DOI](https://zenodo.org/badge/1458047945.svg)](https://doi.org/10.5281/zenodo.24228800)
 
@@ -43,4 +43,4 @@ Analyses were run in R 4.4.2 (2024-10-31 ucrt) on Windows 11 x64. PICRUSt2 v2.6.
 
 ## Citation
 
-ADD MANUSCRIPT CITATION AFTER PUBLICATION. Code and data archive: https://doi.org/10.5281/zenodo.24228800
+Code and data archive: https://doi.org/10.5281/zenodo.24228800
