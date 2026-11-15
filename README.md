@@ -1,4 +1,4 @@
-# Supplementary code and data for "Comparison of the gut microbiota and predicted functional potential of the water hyacinth planthopper Megamelus scutellaris (Hemiptera: Delphacidae) between field and mass-reared populations "
+# Supplementary code and data for "Comparison of the gut microbiota and predicted functional potential of the water hyacinth planthopper *Megamelus scutellaris* (Hemiptera: Delphacidae) between field and mass-reared populations"
 
 [![DOI](https://zenodo.org/badge/1458047945.svg)](https://doi.org/10.5281/zenodo.24228800)
 
@@ -17,6 +17,7 @@ Study populations: Waainek (mass-rearing station) and the field sites Middle Lak
 | `data/metadata_ko.txt` | Sample metadata (sample ID and site) for the functional analyses |
 | `data/ko_unstrat.tsv` | PICRUSt2 unstratified KO abundance table |
 | `data/path_abun_contrib.tsv.gz` | PICRUSt2 stratified pathway contributions |
+| `data/picrust2/` | PICRUSt2 nearest sequenced taxon index (NSTI) outputs: per-sample weighted NSTI (`weighted_nsti.tsv`) and per-ASV NSTI (`combined_marker_predicted_and_nsti.tsv`), summarised in Supplementary Table 10 |
 
 ## Run order
 
@@ -43,4 +44,4 @@ Analyses were run in R 4.4.2 (2024-10-31 ucrt) on Windows 11 x64. PICRUSt2 v2.6.
 
 ## Citation
 
-Code and data archive: https://doi.org/10.5281/zenodo.24228800
+ADD MANUSCRIPT CITATION AFTER PUBLICATION. Code and data archive: https://doi.org/10.5281/zenodo.24228800
