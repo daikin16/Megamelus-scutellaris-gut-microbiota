@@ -1,4 +1,4 @@
-# Supplementary code and data for "Characterisation of the gut microbiota and predicted functional potential of the water hyacinth planthopper *Megamelus scutellaris* (Hemiptera: Delphacidae) between field and mass-reared populations"
+# Supplementary code and data for "Comparison of the gut microbiota and predicted functional potential of the water hyacinth planthopper Megamelus scutellaris (Hemiptera: Delphacidae) between field and mass-reared populations"
 
 R scripts and input data supporting the manuscript above. Field sites: Waainek, Middle Lake and Civic Dam, East Rand, Johannesburg, South Africa.
 
